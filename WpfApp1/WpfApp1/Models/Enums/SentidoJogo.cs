@@ -3,6 +3,6 @@
     public enum SentidoJogo
     {
         Horario,
-        AntiHorario
+        AntiHorario  //.
     }
 }
